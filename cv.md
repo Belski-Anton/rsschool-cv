@@ -5,6 +5,7 @@ ___
 * _tel_: +375(29)506-777-0
 * _email_: anton.belski@gmail.com
 * _github_: https://github.com/Belski-Anton
+*_discord_: anton_belski#6073
 ___
 
 ## ABOUT ME:
