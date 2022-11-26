@@ -34,7 +34,10 @@ ___
 
 ## EDUCATION
 * Belarusian State Pedagogical University
+
 ___
+
+
 
 ## LANGUAGES:
 * ENGLISH -A1
