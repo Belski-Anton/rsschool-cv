@@ -7,4 +7,13 @@ ___
 * _github_: https://github.com/Belski-Anton
 ___
 
+## ABOUT ME:
+I'm interested in something new
+___
+## SKILLS:
+* a little html
+* a little css
+* a little js
+___
+
 
