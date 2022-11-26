@@ -11,6 +11,7 @@ ___
 
 ## ABOUT ME:
 I'm interested in something new
+
 ___
 
 ## SKILLS:
