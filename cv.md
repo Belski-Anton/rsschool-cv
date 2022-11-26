@@ -25,4 +25,6 @@ return a * b
 ```
 ___
 
+## LANGUAGES:
+* ENGLISH -A1
 
