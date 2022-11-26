@@ -27,7 +27,7 @@ return a * b
 ___
 
 ## EDUCATION
-Belarusian State Pedagogical University
+* Belarusian State Pedagogical University
 ___
 
 ## LANGUAGES:
