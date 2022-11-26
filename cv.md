@@ -32,6 +32,7 @@ return a * b
 ```
 ___
 
+
 ## EDUCATION
 * Belarusian State Pedagogical University
 
