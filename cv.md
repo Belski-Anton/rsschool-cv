@@ -26,6 +26,10 @@ return a * b
 ```
 ___
 
+## EDUCATION
+Belarusian State Pedagogical University
+___
+
 ## LANGUAGES:
 * ENGLISH -A1
 
