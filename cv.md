@@ -16,4 +16,13 @@ ___
 * a little js
 ___
 
+## CODE EXAMPLE:
+```
+function multiply (a, b) {
+return a * b
+}
+
+```
+___
+
 
