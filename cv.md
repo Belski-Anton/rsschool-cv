@@ -12,6 +12,7 @@ ___
 ## ABOUT ME:
 I'm interested in something new
 ___
+
 ## SKILLS:
 * a little html
 * a little css
