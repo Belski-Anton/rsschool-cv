@@ -203,3 +203,9 @@ main {
 .line_progress3 {
    width: 10%;
 }
+
+.example h3 {
+   color: #000;
+   font-size: 24px;
+   margin-bottom: 20px;
+}
