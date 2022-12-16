@@ -95,3 +95,20 @@ p {
    background: #fff;
    width: 100%;
 }
+
+header {
+   background: #D0D0D0;
+   width: 100%;
+}
+
+header ul {
+   display: flex;
+   justify-content: space-around;
+   list-style: none;
+   opacity: 0.3;
+   padding: 0;
+}
+
+ul>li {
+   cursor: pointer;
+}
