@@ -191,3 +191,15 @@ main {
    background: #eb4034;
    height: 2px;
 }
+
+.line_progress1 {
+   width: 30%;
+}
+
+.line_progress2 {
+   width: 20%;
+}
+
+.line_progress3 {
+   width: 10%;
+}
