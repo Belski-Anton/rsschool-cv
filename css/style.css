@@ -67,3 +67,24 @@ p {
 .name_lang {
    padding: 10px;
 }
+
+.progress_one,
+.progress_two {
+   background: #000;
+   height: 3px;
+}
+
+.line_progress {
+   height: 3px;
+   background: #eb4034;
+}
+
+.progress_one .line_progress {
+   width: 30%;
+
+}
+
+.progress_two .line_progress {
+   width: 100%;
+
+}
