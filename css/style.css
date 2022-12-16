@@ -121,3 +121,13 @@ footer {
    margin-top: auto;
    background: #D0D0D0;
 }
+
+.logo_rss img {
+   width: 70px;
+}
+
+.link_git img {
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+}
