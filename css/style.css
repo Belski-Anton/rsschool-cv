@@ -17,6 +17,17 @@ a {
    margin: 10px auto;
 }
 
+aside {
+   padding: 40px 20px;
+}
+
+h1,
+h2,
+h3 {
+   color: #fff;
+   text-transform: uppercase;
+   text-align: center;
+}
 
 .my_photo {
    width: 200px;
