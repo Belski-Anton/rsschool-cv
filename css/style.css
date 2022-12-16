@@ -1,5 +1,6 @@
-html {
-   margin: 0 auto;
-   max-width: 1200px;
-   min-width: 320px;
+body {
+   margin: 0;
+   padding: 0;
+   background: #add8e6;
+   font-family: 'Martian Mono', monospace;
 }
