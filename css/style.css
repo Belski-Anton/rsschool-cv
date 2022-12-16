@@ -88,3 +88,10 @@ p {
    width: 100%;
 
 }
+
+.wrapper_two {
+   display: flex;
+   flex-direction: column;
+   background: #fff;
+   width: 100%;
+}
