@@ -16,3 +16,13 @@ a {
    max-width: 800px;
    margin: 10px auto;
 }
+
+
+.my_photo {
+   width: 200px;
+   height: 200px;
+   border-radius: 100px;
+   object-fit: cover;
+   display: block;
+   margin: 0 auto;
+}
