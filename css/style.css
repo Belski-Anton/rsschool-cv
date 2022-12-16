@@ -163,3 +163,10 @@ main {
    display: flex;
    align-items: center;
 }
+
+.line {
+   background: #000;
+   max-width: 270px;
+   width: 100%;
+   border: 1px solid #000;
+}
