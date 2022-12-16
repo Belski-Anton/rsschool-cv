@@ -38,6 +38,21 @@ h3 {
    margin: 0 auto;
 }
 
+.uni {
+   text-align: center;
+}
+
+
+hr {
+   margin-bottom: 30px;
+
+}
+
+.title,
+p {
+   margin-bottom: 20px;
+}
+
 .info img {
    width: 20px;
    margin-right: 20px;
