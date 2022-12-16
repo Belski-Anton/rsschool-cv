@@ -131,3 +131,19 @@ footer {
    height: 30px;
    border-radius: 50%;
 }
+
+h2[class="title2"] {
+   color: #000;
+   font-size: 35px;
+   margin: 30px;
+}
+
+.about_me {
+   text-align: center;
+}
+
+h3[class="title_work"] {
+   color: #000;
+   margin: 30px;
+   font-size: 24px;
+}
