@@ -58,3 +58,12 @@ p {
    margin-right: 20px;
    margin-bottom: 20px;
 }
+
+.descr_date {
+   display: flex;
+   align-items: flex-start;
+}
+
+.name_lang {
+   padding: 10px;
+}
